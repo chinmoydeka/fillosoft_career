@@ -1,0 +1,12 @@
+# SQLite Databases
+*.db
+*.sqlite
+*.sqlite3
+fillosoft_careers.db
+
+# Dependencies & Uploads
+node_modules/
+uploads/*
+!uploads/.gitkeep
+.env
+*.log

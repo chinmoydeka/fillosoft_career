@@ -1,0 +1,20 @@
+# SQLite Databases
+*.db
+*.sqlite
+*.sqlite3
+fillosoft_careers.db
+
+# Dependencies & Build Outputs
+node_modules/
+server/node_modules/
+client/node_modules/
+client/dist/
+
+# Uploaded Candidate Files
+server/uploads/*
+!server/uploads/.gitkeep
+
+# Environment & Logs
+.env
+*.log
+.DS_Store
